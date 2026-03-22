@@ -85,6 +85,5 @@ All endpoints are tested using Swagger UI.
 
 ---
 
-## 👨‍💻 Author
 
 **Kiran T**
