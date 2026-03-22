@@ -36,14 +36,14 @@ It provides APIs for handling doctor records, scheduling appointments, and perfo
 
 ## 📂 Project Structure
 
-'''
+```
 fastapi-medical-appointment-system/
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
 └── screenshots/
-'''
+```
 
 ---
 
