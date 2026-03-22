@@ -62,6 +62,7 @@ http://127.0.0.1:8000/docs
 📸 API Testing
 
 All endpoints are tested using Swagger UI.
+```
 
 ## 🔧 Key Functionalities
 
